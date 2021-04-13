@@ -1,0 +1,40 @@
+.navbar-header a{
+	text-decoration:none;
+	color: grey;
+}
+.jumbotron img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 3px solid grey;
+}
+
+
+
+.about .container{
+	height: 600px;
+
+}
+
+hr{
+	width: 250px;
+	border-top:3px solid grey;
+
+}
+
+
+.portofolio{
+
+	background-color: #eee;
+}
+
+
+.portofolio img{
+	width: 200px;
+	height: 200px;
+	margin-left: 80px;
+}
+
+.portofolio .container{
+	height: 400px;
+}
